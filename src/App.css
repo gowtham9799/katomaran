@@ -1,0 +1,125 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.gow{
+  box-sizing: content-box !important ;
+  font-size: 30px;
+  background-color: black;
+  color: white;
+}
+.ul>a {
+  text-decoration: none;
+  text-transform: capitalize;
+}
+.pgdesign2 li{
+  list-style: none;
+  padding: 15px 0px 15px 0px!important;
+  border-bottom: 2px solid white;
+}
+.pgdesign2 li a{
+  color:white;
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: bolder; 
+}
+.page-left {
+  background-color:black;
+  height: 100vh;
+  overflow: scroll;
+  padding-right: 20px;
+  padding-left: 20px;
+  position: relative;
+}
+.sdesign{
+  width: 95%;
+  margin-top: 24px;
+  margin-left: 20px;
+  padding-bottom:5px;
+  padding-top: 5px;
+  text-decoration:none!important;
+  color: black;
+}
+.pgdesign2{
+  text-decoration: none!important;
+  padding-top: 20px;
+  color: rgb(7, 7, 7);
+}
+.search1 {
+  margin-top: 20px;
+  display: inline-block !important;
+  background-color: rgba(221, 229, 235, 0.516);
+  width: 90% !important;
+  margin-left: 20px;
+}
+.form-control {
+  width: 87%;
+}
+.sdesign::placeholder {
+  text-align: center;
+}
+.name {
+  color: white;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  list-style: none;
+  box-sizing: unset;
+}
+.page-right {
+  background-color: rgb(152, 155, 155);
+  height: 100vh;
+  padding-right: 20px;
+  padding-left: 80px;
+  position: relative;
+}
+.search2 {
+  padding-left: 5px;
+  position: fixed;
+  bottom: 0;
+  width: 57% !important;
+  margin-bottom: 20px;
+}
+.emoji {
+  position: absolute;
+  bottom: 4%;
+  left: 1%;
+}
+.emoji1 {
+  position: absolute;
+  bottom: 4%;
+  left: 4%;
+}
+.emoji2 {
+  position: absolute;
+  bottom: 4%;
+  right: 2%;
+}
+.emoji3 {
+  position: absolute;
+  top: 5%;
+  left: 2%;
+}
+.sent {
+  position: absolute;
+  bottom: 3%;
+  right: 1.5%;
+}
+.namebar {
+  position: relative;
+  left: -81px;
+}
+.gow1{
+  width: 0%;
+  height: 0%;
+  margin-top: -20px;
+}
+.textdesign{
+font-style:normal;
+font-size: 30px;
+border: 5px;
+list-style: none;
+padding-left: 20px;
+border: 1px white;
+}
+
